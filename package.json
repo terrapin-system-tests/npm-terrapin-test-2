@@ -1,6 +1,6 @@
 {
   "name": "terrapin-test-1",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "",
   "repository": "dorfire/terrapin-test-1",
   "main": "main.js",
@@ -9,5 +9,5 @@
   },
   "author": "dorfire@microsoft.com",
   "license": "ISC",
-  "gitHead": "84fb5e566450aa16f718852561ee80e75a0d03d4"
+  "gitHead": "e0b69c822be789576478316fcfd46dbe9c8047d6"
 }
