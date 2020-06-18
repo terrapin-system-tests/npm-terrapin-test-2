@@ -2,7 +2,7 @@
   "name": "terrapin-test-1",
   "version": "1.0.155",
   "description": "",
-  "repository": "dorfire/terrapin-test-1",
+  "repository": "terrapin-system-tests/terrapin-test-1",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
